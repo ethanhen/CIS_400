@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Apps/CIS_400/RunningUI/app/src/main/res/layout/activity_library.xml" value="0.46770833333333334" />
+        <entry key="..\:/Android Apps/CIS_400/RunningUI/app/src/main/res/layout/activity_main.xml" value="0.40677083333333336" />
+        <entry key="..\:/Android Apps/CIS_400/RunningUI/app/src/main/res/layout/activity_maps.xml" value="0.33" />
+        <entry key="..\:/Android Apps/CIS_400/RunningUI/app/src/main/res/layout/activity_search_acrivity.xml" value="0.40677083333333336" />
+        <entry key="..\:/Android Apps/CIS_400/RunningUI/app/src/main/res/layout/activity_settings.xml" value="0.40677083333333336" />
         <entry key="..\:/Android Apps/RunningUI/app/src/main/res/layout/activity_library.xml" value="0.2708333333333333" />
         <entry key="..\:/Android Apps/RunningUI/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Android Apps/RunningUI/app/src/main/res/layout/activity_search_acrivity.xml" value="0.33" />
